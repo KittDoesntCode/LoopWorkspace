@@ -218,7 +218,6 @@ jobs:
           now_line \
           meal_days \
           profiles \
-          dexcom_upload_readings \
           future_carbs_4h \
           basal_lock \
           negative_insulin \
